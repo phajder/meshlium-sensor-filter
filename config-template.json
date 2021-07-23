@@ -1,0 +1,22 @@
+{
+    "db": {
+        "dbHost": "localhost",
+        "dbPort": "3306",
+        "dbUser": "root",
+        "dbPass": "12345",
+        "database": "database"
+    },
+    "dateStart": "2021-07-10 00:00:00",
+    "dateEnd": "2021-07-10 23:59:59",
+    "skipSensors": [
+        "GPS",
+        "PST",
+        "SRT_WS",
+        "SNT_WS",
+        "ST_WS",
+        "PS_WS",
+        "TC_WS",
+        "TN_WS",
+        "TA_WS"
+    ]
+}
